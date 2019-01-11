@@ -1,0 +1,26 @@
+{
+	"Client":{
+		"Id_client":"",
+		"Nom":"Gueye",
+		"Prenom":"Khalifa",
+		"Adresse":"",
+		"Telephone":""
+	},		
+	"Voiture":{
+		"Numero_matricule":"",
+		"Marque":"",
+		"Prix":"",
+		"Couleur":""
+	},
+	"Vendeur":{
+		"Id_vendeur":"",
+		"Nom":"",
+		"Prenom":"",
+		"Adresse":""
+	},
+	"Achete":{
+		"Id_client":"",
+		"Numero_matricule":"",
+		"Id_vendeur":""
+	}
+}
